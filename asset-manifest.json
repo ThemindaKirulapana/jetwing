@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jetwing/static/css/main.fd743fa4.css",
+    "main.js": "/jetwing/static/js/main.a2352122.js",
+    "static/js/453.970a790d.chunk.js": "/jetwing/static/js/453.970a790d.chunk.js",
+    "static/media/p1.jpg": "/jetwing/static/media/p1.e9f9bf9428f54accf287.jpg",
+    "static/media/205962295.jpg": "/jetwing/static/media/205962295.8bc5ccf1fa0dea297f65.jpg",
+    "static/media/jetwing-beach-category-744x653.jpg": "/jetwing/static/media/jetwing-beach-category-744x653.cd18896fe0b3a2f36d15.jpg",
+    "static/media/Colombo-7-categorythumbnail.jpg": "/jetwing/static/media/Colombo-7-categorythumbnail.095c34e40619b119f4e1.jpg",
+    "static/media/tea.jpg": "/jetwing/static/media/tea.6d09a68c46bbb02a534b.jpg",
+    "static/media/yala-hotels-categorythumbnail-1.jpg": "/jetwing/static/media/yala-hotels-categorythumbnail-1.db18926787344c677e7e.jpg",
+    "static/media/grill.jpg": "/jetwing/static/media/grill.981870e73b4e8a12cc3f.jpg",
+    "static/media/bar.jpg": "/jetwing/static/media/bar.21a5d79b3338076aadf7.jpg",
+    "static/media/coofee.jpg": "/jetwing/static/media/coofee.4e496341937d403d5959.jpg",
+    "static/media/jetwings.jpg": "/jetwing/static/media/jetwings.19f1c6344365de277902.jpg",
+    "static/media/logo.jpg": "/jetwing/static/media/logo.a100dc2f2cc5a1d3c92c.jpg",
+    "index.html": "/jetwing/index.html",
+    "main.fd743fa4.css.map": "/jetwing/static/css/main.fd743fa4.css.map",
+    "main.a2352122.js.map": "/jetwing/static/js/main.a2352122.js.map",
+    "453.970a790d.chunk.js.map": "/jetwing/static/js/453.970a790d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd743fa4.css",
+    "static/js/main.a2352122.js"
+  ]
+}
