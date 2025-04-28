@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <div  className='navbar'>
         <div className='leftside'>
-            <img src={logo}  className='logo'/>
+            <img src={logo}  className='logo' style={{marginLeft:'20px', borderRadius:'5px'}}/>
 
         </div>
         <div className='rightside'>
