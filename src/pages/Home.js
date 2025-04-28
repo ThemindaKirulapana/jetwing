@@ -6,6 +6,7 @@ import slide3 from '../assests/yala-hotels-categorythumbnail-1.jpg'
 import logo from '../assests/logo.jpg'
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+
 function Home() {
   return (
     <div>
@@ -44,7 +45,7 @@ function Home() {
           Ideal for couples, families, and solo travelers, Jetwing promises unforgettable stays rooted in authenticity and care, making it a leading choice for luxury travel in Sri Lanka.
         </p>
 
-        <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
+        <div id="carouselExampleControls" className="carousel slide mb-5" data-bs-ride="carousel">
           <div className="carousel-inner">
             <div className="carousel-item active">
               <img src={slide1} className="d-block w-100" alt="Slide 1" style={{ height: '400px', objectFit: 'cover' }} />
@@ -67,6 +68,7 @@ function Home() {
         </div>
       </div>
     </div>
+    
   )
 }
 
