@@ -13,7 +13,7 @@ function Navbar() {
         <div className='rightside'>
 
           <Link to="/">Home</Link>
-          <Link to="/AboutUs">About</Link>
+          <Link to="/AboutUs">About Us</Link>
           <Link to="/Service">Services</Link>
           <Link to="/ContactUs">Contact</Link>
            
