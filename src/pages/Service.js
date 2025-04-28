@@ -53,6 +53,8 @@ function Service() {
                     <h5 style={{fontFamily:'ui-sans-serif', fontStyle:'initial',color:'GrayText'}}>Operating Hours: 10.00 am - 12.00 midnight</h5> 
                 </div>
             </div>
+
+            
             
         </div>
     );
